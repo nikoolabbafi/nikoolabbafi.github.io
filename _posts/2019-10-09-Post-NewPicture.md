@@ -3,12 +3,7 @@ layout: posts
 title: Test Post
 ---
 
-## This is my team at Microsoft
-People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
+## 
 
 [my favorite website](http://www.google.com)
 
@@ -17,7 +12,7 @@ kfajdskfajsdf sakd fjksad jfksdj fksdj f
 
 
 
-![alt text](../assets/images/grouppic.jpg "Team Picture")
+![alt text]()
 
 ---
 **Test**: This is atest
