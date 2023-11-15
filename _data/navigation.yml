@@ -15,7 +15,7 @@ main:
   - title: "Blog"
     url: /blog/
   - title: "calendar"
-    url: /https://calendar.google.com/calendar/u/0/r?pli=1/
+    url: https://calendar.google.com/calendar/u/0/r?pli=1
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
