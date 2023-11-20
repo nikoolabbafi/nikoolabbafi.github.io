@@ -20,6 +20,9 @@ title:
 - about trees i tried to use random color and increse the branches to make it look more natural :
 [fractal of trees ](../assets/tree_11zon.jpg)
 
+- In addition i drew clouds and flowers here are the codes :
+[fractal of clouds](../assets/cloud_11zon.jpg)
+[fractal of flowers ](../assets/flower_11zon.jpg)
 
     
     
