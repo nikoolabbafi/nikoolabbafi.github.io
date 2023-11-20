@@ -18,7 +18,7 @@ title:
 [fractal of grass](/assets/images/grass_11zon.jpg)
 
 - about trees i tried to use random color and increse the branches to make it look more natural :
-<img src ="C:\Users\Asus\Downloads\tree_11zon.jpg" >
+<img src ="/assets/images/grass_11zon.jpg" >
 
 
     
