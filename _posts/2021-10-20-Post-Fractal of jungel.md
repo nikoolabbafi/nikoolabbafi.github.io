@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:
+title: The fractal of jungel
 ---
 
 
