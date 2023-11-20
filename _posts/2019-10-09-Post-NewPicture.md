@@ -1,12 +1,12 @@
 ---
 layout: posts
-title: Posts
+title: The fractal of triangel
 ---
 
 
-
-[my favorite website](http://www.google.com)
-
+- to draw this fractal i use recursive function . and for the color i import a library . 
+this is the code and the picture of it :
+[fractal of triangel ](../assets/triangel_11zon.jpg)
 
 
 
