@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: The fractal of triangel
+title: The fractal of triangel , star and squer
 ---
 
 
@@ -8,6 +8,18 @@ title: The fractal of triangel
 this is the code and the picture of it :
 [fractal of triangel ](../assets/triangel_11zon.jpg)
 
+
+- to draw the fractal of star again use recursive function . and the color is the same as fractal of triangel :
+[code fractal of star ](../assets/codestar_11zon.jpg)
+[picture fractal of star ](../assets/picturestar_11zon.jpg)
+
+
+- to draw the fractal of star again use recursive function . and the color is the same as fractal of triangel :
+[ picture fractal of squer 0.5 ]()
+[ code fractal of squer 0.5 ](../assets/squer2_11zon.jpg)
+
+[picture fractal of squer between (0, 1) ]()
+[code fractal of squer between (0, 1) ](../assets/sqquer1_11zon.jpg)
 
 
 
