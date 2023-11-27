@@ -1,5 +1,5 @@
 ---
-layout: posts
+# layout: posts
 title: The fractal of triangel , star and squer
 ---
 
